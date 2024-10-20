@@ -4,3 +4,4 @@ function area_circle() {
     let ans = PI * radius
     console.log(ans)
 }
+area_circle()
